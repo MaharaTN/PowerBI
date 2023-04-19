@@ -1,5 +1,7 @@
 # PowerBI
 
+Ao buscar por visuais mais próximos do que desejava em meus dashboads, cheguei a conclusão de que se eu queria algo elaborado, seria mais interessante criar.
+
 Para realizar a criação de qualquer novo visual, foi utilizado algumas documentações e vídeos que facilitaram o entendimento de como funcionava a criação. Segue links das documentações:
 
 1.https://learn.microsoft.com/pt-br/power-bi/developer/visuals/power-bi-custom-visuals
